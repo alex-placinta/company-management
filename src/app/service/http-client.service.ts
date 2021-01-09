@@ -7,7 +7,7 @@ export class Company{
     public name:string,
     public address:string,
     public registrationNumber:string,
-    public phoneNumber:string,
+    
   ) {}
 }
 
